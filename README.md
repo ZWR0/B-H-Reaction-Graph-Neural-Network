@@ -1,4 +1,4 @@
-# B-H Reaction Graph Neural Network
+# Designing Buchwald-Hartwig Reaction Graph for Yield Prediction
 This repository contains the implementation of BH-RGNN (Buchwald-Hartwig Reaction Graph Neural Network), a novel graph neural network model designed to predict yields in Buchwald-Hartwig (B–H) reactions by modeling complex interactions among chemical components.
 
 ## Model Overview
